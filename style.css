@@ -1,0 +1,87 @@
+body {
+  background: rgb(245, 245, 245);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+
+ul li {
+  margin-bottom: 6px;
+}
+
+ul li a {
+  color: rgb(20, 20, 20);
+  font-size: 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+h2 {
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  background: rgb(210, 210, 210);
+  padding: 8px 10px;
+  margin: 18px 0 10px 0;
+  border-radius: 4px;
+}
+
+.short-description {
+  font-size: 14px;
+  font-style: italic;
+  line-height: 16px;
+  color: rgb(80, 80, 80);
+  margin: 0 0 12px 0;
+}
+
+.full-description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgb(50, 50, 50);
+  margin: 0 0 12px 0;
+}
+
+.characteristics {
+  margin: 10px 0 15px 20px;
+  font-size: 14px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.catalog-item {
+  margin-bottom: 30px;
+}
+
+.catalog-item p {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 8px 0;
+}
+
+.catalog-item a {
+  color: black;
+  text-decoration: none;
+}
+
+.catalog-item a:hover {
+  text-decoration: underline;
+}
+
