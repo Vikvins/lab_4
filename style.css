@@ -85,3 +85,14 @@ h2 {
   text-decoration: underline;
 }
 
+button {
+  margin-top: 8px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+#cart li {
+  margin-bottom: 8px;
+}
+
+
